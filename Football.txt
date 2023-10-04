@@ -1,0 +1,452 @@
+////////////////////////////////////   INDEX ////////////////////////
+
+
+
+<html>
+<head>
+	<title>
+			Football News
+	</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body >
+	<h1>Football News</h1>
+	
+<nav>
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li><a href="#News">News</a></li>
+		<li><a href="#leagues">Leagues</a></li>
+		<li><a href="#feedback">feedback</a></li>
+		<li><a href="#Contact"> Contact </a></li>
+	</ul>
+
+</nav>
+</br> </br>
+<h3>  Assalam Alaikum This is my Website please visit it and give Feedback </h3> </br>
+. </br> 
+.  </br>
+<a name="News" >   </a>
+<h1>   News   </h1>
+<section >
+<div id="first">
+	<img src="pepp.jpg" height="150" width="200" align="left"/>
+	<p id="one">Pep : City have title winning numbers </p>
+	<p id="two">Pep Guardiola has defended Manchester City's title credentials despite back-to-back defeats handing Liverpool the initiative at the top of the Premier League.
+    </p>
+	
+	<a href="pep.html"><span>Read More</span></a></br>
+
+</div>
+<hr>
+<div id="first">
+	<img src="barca.jpg" height="150" width="200" align="left"/>
+	<p id="one">Barcelona say only contact over Adrien Rabiot has been with PSG </p>
+	<p id="two">
+		Barcelona have issued a statement denying they have breached any rules regarding the possible signing of PSG midfielder Adrien Rabiot.
+	</p>
+	
+	<a href="barca.html"><span>Read More</span></a></br>
+
+</div>
+<hr>
+<div id="first">
+	<img src="tottenham.jpg" height="150" width="200" align="left"/>
+	<p id="one"> Tottenham have a chance against Borussia Dortmund if they are at their best, says Danny Mills </p>
+	<p id="two">
+				Danny Mills thinks Tottenham's Champions League last-16 tie against Borussia Dortmund is "difficult but winnable".
+				
+	</p>
+	
+	<a href="tottenham.html"><span>Read More</span></a></br>
+
+</div>
+</section>
+</br> </br>
+
+<hr>
+
+</br> </br> </br>
+<a name="leagues">   </a>
+<h1> Leagues </h1>
+
+<div id="first">
+	
+	<p id="one">Premier League : </p>
+	<p id="two"> The premier league is the top level of English football league system.
+				Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League.
+				The Premier League is a corporation in which the member clubs act as shareholders. 
+				Seasons run from August to May with each team playing 38 matches (playing each other home and away).Most games are played on Saturday and Sunday afternoons.
+				The Premier League has featured 47 English and two Welsh clubs since its inception, making it a cross-border league. 
+		</p>
+	
+	<a href="premier.html"><span>Read More</span></a></br>
+
+</div>
+</br></br>
+<hr>
+<div id="first">
+	
+	<p id="one">La Liga : </p>
+	<p id="two"> 
+	The Campeonato Nacional de Liga de Primera División,
+	commonly known as La Liga[b] (La Liga Santander for sponsorship reasons with Santander),
+	is the men's top professional football division of the Spanish football league system.
+	Administered by the Liga Nacional de Fútbol Profesional (English: National Professional Football League), 
+	also known as the Liga de Fútbol Profesional (LFP), La Liga is contested by 20 teams,
+	with the three lowest-placed teams relegated to the Segunda División and replaced by the top two teams in that division plus the winner of a play-off. 
+	</p>
+	
+	<a href="laliga.html"><span>Read More</span></a></br>
+	
+
+</div>
+</br> </br>
+<hr>
+<div id="first">
+	
+	<p id="one">Serie A : </p>
+	<p id="two"> 
+				Serie A  also called Serie A TIM due to sponsorship by TIM,
+				is a professional league competition for football clubs located at the top of the Italian football 
+				league system and the winner is awarded the Coppa Campioni d'Italia. It has been operating for over
+				eighty years since the 1929–30 season. It had been organized by Lega Calcio until 2010, when the Lega
+				Serie A was created for the 2010–11 season.
+		</p>
+	
+	<a href="seriea.html"><span>Read More</span></a></br>
+
+</div>
+</br>
+<hr>
+<div id="first">
+	
+	<p id="one">Ligue 1 : </p>
+	<p id="two"> 
+				Ligue 1 [a], also called Ligue 1 Conforama for sponsorship reasons with Conforama,
+				is a French professional league for men's association football clubs. 
+				At the top of the French football league system, it is the country's primary football competition. 
+				Administrated by the Ligue de Football Professionnel, 
+				Ligue 1 is contested by 20 clubs and operates on a system of promotion and </br> relegation with Ligue 2. </br>
+	</p>
+	
+	
+	<a href="ligue1.html"><span>Read More</span></a></br>
+
+</div>
+</br> </br>
+<a name="feedback">  </a>
+<h1> Feedback </h1>
+  <h3> <a href = "form.php">  Please click here to give feedback. </a>  </h3> <br> <br> 
+  <h3> <a href = "select.php">  Click here Show Other Feedback. </a> </h3>
+
+
+
+
+
+
+<footer>
+<p>Copyright<span><b> YourSite</b></span>. All rights reserved.</p>
+<br>
+</footer>
+
+
+</body>
+
+</html>
+ 
+
+//////////////////////////////////////// BARCA PAGE  //////////////////////////////////////
+
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mycss2.css">
+</head> 
+<body>
+<h1>
+Barcelona say only contact over Adrien Rabiot has been with PSG 
+</h1>
+<detail>
+Barcelona have issued a statement denying they have breached any rules regarding the possible signing of PSG midfielder Adrien Rabiot.</br></br>
+
+
+Rabiot's current contract expires in the summer - meaning he can negotiate a move</br></br>
+ to a non-French club for next season once the January transfer window has opened.</br></br></br>
+The 23-year-old has been linked with Premier League sides Arsenal and Liverpool, </br></br>
+but reports have emerged suggesting he has an agreement in place with Spanish champions Barcelona.</br></br></br></br>
+
+However, Barca released a statement on Sunday which said: "FC Barcelona wish to address stories published in France </br></br>
+regarding the signing of players from Paris Saint-Germain, and make clear that they have not breached any rule in this regard.</br></br></br>
+"The only contact made was during the month of August and one week ago.</br></br></br>
+"In both cases, this contact was made with PSG's sporting management, to show FC Barcelona's interest in player Adrien Rabiot.</br></br></br>
+"FC Barcelona have always wanted to work with the utmost transparency in their dealings with PSG and with any other club.</br></br></br>
+"FC Barcelona refute the existence of any type of agreement with PSG player Adrien Rabiot."</br></br></br>
+</detail>
+
+</body>
+</html>
+
+//////////////////////////////////////////////    LALIGA PAGE //////////////////////////////////////////////////////
+
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mycss2.css">
+</head> 
+<body>
+<h1> Laliga : </h1>
+<detail>
+The Campeonato Nacional de Liga de Primera División,</br><br>
+commonly known as La Liga (La Liga Santander for sponsorship reasons with Santander),</br><br>
+is the men's top professional football division of the Spanish football league system.</br><br>
+Administered by the Liga Nacional de Fútbol Profesional (English: National Professional Football League), </br><br>
+also known as the Liga de Fútbol Profesional (LFP), La Liga is contested by 20 teams,</br><br>
+with the three lowest-placed teams relegated to the Segunda División and replaced by the top two teams in that division plus the winner of a play-off. </br><br>
+62 teams have competed in La Liga since its inception. Nine teams have been crowned champions,</br><br>
+with Real Madrid winning the title a record 33 times and Barcelona 25 times. </br><br>
+Barcelona won the inaugural La Liga in 1929 with Athletic Bilbao claiming several titles in the league's early years. </br><br>
+Barcelona and Real Madrid dominated the championship in the 1950s, winning four La Liga titles each throughout the decade. </br><br>
+Real Madrid dominated La Liga from the 1960s through the 1980s, when Barcelona, Athletic Bilbao, </br><br>
+and Real Sociedad won the league twice in those years. From the 1990s onward, Barcelona has dominated La Liga, winning 15 titles.</br><br>
+Although Real Madrid has been prominent, winning 8 titles, La Liga has also seen other champions, including Atlético Madrid, Valencia, </br><br>
+and Deportivo de La Coruña. In the 2010s, Atlético Madrid has become an increasingly stronger team, forming a trio alongside Real Madrid and Barcelona. </br><br>
+According to UEFA's league coefficient, </br><br>
+La Liga has been the top league in Europe over the last five years and has led Europe for more years (21) than any other country.</br><br>
+It has also produced the continent's top-rated club more times (21) than any other league, more than double that of second-placed Serie A.</br><br>
+Its clubs have won the most UEFA Champions League (18), UEFA Europa League (11), UEFA Super Cup (15), and FIFA Club World Cup (7) titles, </br><br>
+and its players have accumulated the highest number of Ballon d'Or awards (22), </br><br>
+The Best FIFA Men's Player including FIFA World Player of the Year (19) and UEFA Men's Player of the Year including UEFA Club Footballer of the Year (11). </br><br>
+La Liga is one of the most popular professional sports leagues in the world, with an average attendance of 26,983 for league matches in the 2017–18 season. </br><br>
+This is the sixth-highest of any domestic professional sports league in the world and the third-highest of any professional association football league in the world,</br><br>
+behind the Bundesliga, and the Premier League.</br><br>
+The top 4 teams in La Liga qualify for the subsequent season's UEFA Champions League Group Stage. </br><br>
+The winners of the UEFA Champions League and UEFA Europa League also qualify for the subsequent season's UEFA Champions League Group Stage. </br><br>
+If this means 6 La Liga teams qualify, then the 4th place team in La Liga instead plays in the UEFA Europa League, </br><br>
+as any single nation is limited to a maximum of 5 teams. </br><br>
+The 5th place team in La Liga qualifies for the subsequent season's UEFA Europa League Group Stage. </br><br>
+The winner of the Copa del Rey also qualifies for the subsequent season's UEFA Europa League Group Stage, </br><br>
+but if the winner also finished in the top 5 places in La Liga, then this place reverts to the team that finished 6th in La Liga. </br><br>
+Furthermore the 6th place (or 7th if 6th already qualifies) team qualifies for the subsequent season's UEFA Europa League 2nd Qualifying Round. </br><br>
+The number of places allocated to Spanish clubs in UEFA competitions is dependent upon the position a country holds in the UEFA country coefficients,</br><br>
+ which are calculated based upon the performance of teams in UEFA competitions in the previous 5 years. </br><br>
+Currently the ranking of Spain (and de facto La Liga) is 1st. </br></br>
+</detail>
+</body>
+</html>
+
+///////////////////////////////////////////// LALIGA1 PAGE   ///////////////////////////////////////////
+
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mycss2.css">
+</head> 
+<body>
+<h1> Ligue 1: </h1>
+<detail>
+Ligue 1 [a], also called Ligue 1 Conforama for sponsorship reasons with Conforama,</br><br>
+ is a French professional league for men's association football clubs. </br><br>
+At the top of the French football league system, it is the country's primary football competition. </br><br>
+Administrated by the Ligue de Football Professionnel, </br><br>
+Ligue 1 is contested by 20 clubs and operates on a system of promotion and relegation with Ligue 2. </br><br>
+Seasons run from August to May. Teams play 38 matches each (playing each team in the league twice, home and away), </br><br>
+totaling 38 matches in the season. Most games are played on Saturdays and Sundays, </br><br>
+with a few games played during weekday evenings. </br><br>
+Play is regularly suspended the last weekend before Christmas for two weeks before returning in the second week of January. </br><br>
+Ligue 1 is one of the top national leagues, currently ranked fifth in Europe behind Spain's La Liga, </br><br>
+England's Premier League, Italy's Serie A and Germany's Bundesliga.</br><br>
+Ligue 1 was inaugurated on 11 September 1932 under the name National before switching to Division 1 after a year of existence. </br><br>
+The name lasted until 2002 before switching to its current name. </br><br>
+AS Saint-Étienne is the most successful club with ten league titles in France while </br><br>
+Olympique Lyonnais is the club that has won the most consecutive titles (seven between 2002 and 2008). </br><br>
+With the presence of 69 seasons in Ligue 1, Olympique de Marseille hold the record for most seasons among the elite, </br><br>
+while Paris Saint-Germain hold the league record for longevity with 45 consecutive seasons (from 1974 until at least 2019). </br><br>
+The current champions are Paris Saint-Germain, who won their seventh title in the 2017–18 season. </br><br>
+The league has been won on multiple occasions by foreign-based club AS Monaco, which makes the league a cross-border competition. </br><br>
+
+</detail>
+
+</body>
+</html>
+
+///////////////////////////////////// PEP PAGE ///////////////////////////////////////////
+
+
+<html>
+<head> 
+<link rel="stylesheet" type="text/css" href="mycss2.css">
+</head>
+<body  >
+
+<h1>
+Pep : City have title winning numbers 
+</h1>
+<detail>
+
+Pep Guardiola has defended Manchester City's title credentials despite back-to-back defeats handing Liverpool the initiative at the top of the Premier League.
+
+
+Guardiola's champions endured a miserable Christmas as they were shocked by Crystal Palace and Leicester, </br> 
+surrendering the lead in both matches to make it three defeats in four following a loss to Chelsea earlier in December.</br>
+
+Unbeaten Liverpool took full advantage to make Thursday's meeting between the two clubs, live on Sky Sports,</br>
+ in Manchester a must-win game for Guardiola's side.</br>
+
+  </br>
+
+Before then City head to Southampton on Sunday, live on Sky Sports, needing to get themselves back on track,</br>
+ having slipped to third place behind Tottenham in the table.</br></br>
+
+During a poor run which has coincided with an injury to key midfielder Fernandinho, </br>
+City have looked well short of the side that earned a record 100 points last season, but Guardiola sees a team still capable of defending their title.</br></br>
+
+"We did well so far," he said. "We got 44 points in the first round. </br>
+If you get the same number of points in the second round, that's 88 points. With 88 points, you are champions. You have the numbers to be champions.</br>
+
+</br>
+Highlights from Leicester's 2-1 win over Manchester City</br>
+"Most of the Premier League champions in the past 20 years won it with less points. We did quite well. We did really well.</br>
+</br>
+"But of course you have the past two games, against Crystal Palace and Leicester, </br>
+and you have that sense, because there are two teams there now who are better than us in the last month.</br>
+</br>
+
+"What can we say when Liverpool keep nine clean sheets and score a lot of goals? We cannot compete with that in terms of comparing with them.</br>
+
+"So we look at ourselves, and tomorrow against Southampton, we have to do what we do, and try to win, </br>
+and when that happens, everything comes back to a normal position."
+</br>
+
+Manchester City manager Pep Guardiola says his team still believe they can return to their best despite losing their last two Premier League games</br>
+Guardiola is well known for refusing to budge from his tactical approach and laughed when he was asked if he thought he might need to now.</br>
+
+"Oh, I was waiting for that question," he said. "I was waiting for it later. That is not going to happen. </br>
+It did not happen in the first year, it is not going to happen.</br>
+</br>
+"Why should I? Because I lost two games? No way. It is definitely not going to happen."</br>
+</detail>
+</body>
+</html>
+
+
+//////////////////////////////////////////////// PRIMER PAGE  /////////////////////////////////////////
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mycss2.css">
+</head> 
+<body>
+<h1> Premier League : </h1>
+<detail>
+The Premier League (often referred to as the English Premier League (EPL) </br> <br>
+ outside England) is the top level of the English football league system.</br><br>
+ Contested by 20 clubs, it operates on a system of promotion and relegation with the English Football League (EFL). </br><br>
+The Premier League is a corporation in which the member clubs act as shareholders. </br><br>
+Seasons run from August to May with each team playing 38 matches (playing each other home and away).</br><br>
+ Most games are played on Saturday and Sunday afternoons.</br><br>
+ The Premier League has featured 47 English and two Welsh clubs since its inception, making it a cross-border league.</br><br>
+The competition was formed as the FA Premier League on 20 February 1992 following the decision of clubs in the </br><br>
+Football League First Division to break away from the Football League, founded in 1888, </br><br>
+and take advantage of a lucrative television rights deal.</br><br>
+ The deal was worth £1 billion a year domestically as of 2013–14, </br><br>
+with BSkyB and BT Group securing the domestic rights to broadcast 116 and 38 games respectively.</br><br>
+The league generates €2.2 billion per year in domestic and international television rights.</br><br>
+ In 2014–15, teams were apportioned revenues of £1.6 billion, rising sharply to £2.4 billion in 2016–17. </br><br>
+The Premier League is the most-watched sports league in the world, broadcast in 212 territories to </br><br>
+643 million homes and a potential TV audience of 4.7 billion people.</br><br>
+ In the 2014–15 season, the average Premier League match attendance exceeded 36,000,</br><br>
+ second highest of any professional football league behind the Bundesliga's 43,500.</br><br>
+ Most stadium occupancies are near capacity.</br><br>
+ The Premier League ranks second in the UEFA coefficients of leagues based on performances</br><br>
+ in European competitions over the past five seasons, as of 2018.</br><br>
+Forty-nine clubs have competed since the inception of the Premier League in 1992. </br><br>
+Six of them have won the title since then: Manchester United (13), Chelsea (5), Arsenal (3),</br><br>
+ Manchester City (3), Blackburn Rovers (1), and Leicester City (1). </br><br>
+The record of most points in a Premier League season is 100 by Manchester City in 2017–18.</br><br>
+</detail>
+</body>
+</html> 
+
+//////////////////////////////////////////////////////////////  SERIEA PAGE //////////////////////////////////////////////////
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mycss2.css">
+</head> 
+<body>
+<h1> Serie A: </h1> </br>
+<detail>
+Serie A , also called Serie A TIM due to sponsorship by TIM,</br><br>
+ is a professional league competition for football clubs located at the top of the Italian football league system </br><br>
+and the winner is awarded the Coppa Campioni d'Italia. It has been operating for over eighty years since the 1929–30 season.</br><br>
+ It had been organized by Lega Calcio until 2010, when the Lega Serie A was created for the 2010–11 season. </br><br>
+Serie A is regarded as one of the best football leagues in the world and it is often depicted as the most tactical national league.</br><br>
+ Serie A was the world's second-strongest national league in 2014 according to IFFHS Italian clubs have reached the final of the competition on 27 occasions, </br><br>
+winning the title 12 times. Serie A is ranked third among European leagues according to UEFA's league coefficient,</br><br>
+ behind La Liga, Premier League, and ahead of Bundesliga the Ligue 1, which is based on the performance of Italian clubs</br><br>
+in the Champions League and the Europa League during the last five years.Serie A led the UEFA ranking from 1986 to 1988 and from 1990 to 1999.</br><br>
+In its current format, the Italian Football Championship was revised from having regional and interregional rounds,</br><br>
+ to a single-tier league from the 1929–30 season onwards. The championship titles won prior to 1929 are officially </br><br>
+recognised by FIGC with the same weighting as titles that were subsequently awarded. However, the 1945–46 season, </br><br>
+when the league was played over two geographical groups due to the ravages of WWII, is not statistically considered, </br><br>
+even if its title is fully official.All the winning teams are recognised with the title of Campione d'Italia ("Champion of Italy"), </br><br>
+which is ratified by the Lega Serie A before the start of the next edition of the championship. </br><br>
+The league hosts three of the world's most famous clubs as Juventus, Milan and Internazionale, all founding members of the G-14, </br><br>
+a group which represented the largest and most prestigious European football clubs from 2000 to 2008,</br><br>
+being the first two cited also founding members of its successive organisation, European Club Association (ECA). </br><br>
+More players have won the coveted Ballon d'Or award while playing at a Serie A club than any league in the world other than Spain's La Liga.</br><br>
+ although Spain's La Liga has the highest total number of Ballon d'Or winners. </br><br>
+Juventus, Italy's most successful club of the 20th century and the most successful Italian team,</br><br>
+ is tied for fourth in Europe and eighth in the world with the most official international titles. </br><br>
+The club is also the only one in the world to have won all possible official confederation competitions.</br><br>
+Milan is joint third club for official international titles won in the world, with 18. Internazionale, </br><br>
+following their achievements in the 2009–10 season, became the first Italian team to have achieved a treble. </br><br>
+Inter are also the only team in Italian football history to have never been relegated. Juventus, Milan and Inter, </br><br>
+along with Roma, Fiorentina, Lazio and Napoli, are known as the Seven Sisters of Italian football.</br><br>
+Serie A is one of the most storied football leagues in the world. Of the 100 greatest footballers in history chosen by FourFourTwo magazine in 2017, </br><br>
+42 players have played in Serie A, more than any other league in the world. Juventus is the team that has produced the most World Cup champions (25),</br><br>
+ with Inter (19), Roma (15) and Milan (10), being respectively third, fourth and ninth in that ranking. <br>
+ 
+ <br>
+ </detail>
+
+
+</body>
+</html>
+
+/////////////////////////////////////////////  TOTTINHUM PAGE /////////////////////////////////////////////////////
+
+
+
+
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mycss2.css">
+</head> 
+<body>
+
+<h1> Tottenham have a chance against Borussia Dortmund if they are at their best, says Danny Mills.  </h1>
+ </br> </br> 
+
+<detail>
+Danny Mills thinks Tottenham's Champions League last-16 tie against Borussia Dortmund is "difficult but winnable".</br></br>
+The German side are enjoying an impressive season and have opened up a nine-point lead in the Bundesliga after 15 games.</br></br>
+They won their Champions League group and will face Spurs next year, with the first leg in England on February 13, </br></br>
+before the sides square off at the Westfalenstadion on March 5.</br></br>
+Spurs beat Dortmund twice in the group stages of the tournament last season but former England man</br></br>
+ Mills told Sky Sports: "It has been a better performance from Dortmund this season, they are playing well.</br></br>
+"Attractive football, a high tempo - they will be very difficult to play against, especially with the second leg in Dortmund,</br></br>
+ with their fans and the yellow wall, the backing that the crowd gives them there.</br>
+</br></br>
+"It is going to be very difficult for Tottenham, but it is winnable still, you don't look at it as an impossible task.</br></br>
+"On their day, Tottenham can be outstanding.</br></br>
+"If they play to their very best, they have got a great chance of still going through."</br></br>
+</detail>
+</body>
+</html>
